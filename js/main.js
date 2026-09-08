@@ -1,13 +1,10 @@
 // 1. Student Skills Data Array (Students can edit or add items)
 const skillsData = [
   { name: "HTML5", category: "frontend" },
-  { name: "CSS3 / Flexbox", category: "frontend" },
-  { name: "JavaScript (ES6)", category: "frontend" },
+  { name: "CSS3", category: "frontend" },
+  { name: "JavaScript", category: "frontend" },
   { name: "VS Code", category: "tools" },
-  { name: "Git & GitHub", category: "tools" },
-  { name: "Vercel Deployment", category: "tools" },
-  { name: "SQL Syntax", category: "database" },
-  { name: "Relational Tables", category: "database" },
+  { name: "Git & GitHub", category: "tools" }
 ];
 
 // 2. Dynamic Skills Rendering Function
